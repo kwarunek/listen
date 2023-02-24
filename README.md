@@ -20,6 +20,6 @@ Usage
 Todo
 ----
 
-- toggle print time mark
-- toggle print client's ip
+- toggle printing of a time mark
+- toggle printing of the client's ip
 - ssl
