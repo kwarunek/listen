@@ -3,6 +3,8 @@ listen
 
 A tool server to listen on a given port and print to stdout.
 
+**You should use netcat**, it offers much more than this tool. The listen is a quick'n'dirty tool developed to use on platforms that is easier to scp a staticlinked single binary.
+
 Usage
 -----
 
