@@ -15,7 +15,8 @@ Usage
       --quiet             be quiet, instead
       -a, --addr=0.0.0.0  listen address
       -p, --port=6666     port to listen tos
-      -u, --udp           UDP instead of TCP
+      -u, --udp           listen for UDP
+      -t, --tcp           listen for TCP
       -h, --help          Show usage message
       --version           Show version
 
